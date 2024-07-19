@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/isdevme/isdevme"><img src="assets/logo.png"></a>
+<a href="https://github.com/isdevme/isdevme"><img src="https://raw.githubusercontent.com/isdevme/isdevme/main/assets/logo.png"></a>
 <h1>isdev.me</h1>
 
 **FREE** `isdev.me` subdomain for personal websites, open-source projects and more. Get your own short subdomain now!<br><br>
